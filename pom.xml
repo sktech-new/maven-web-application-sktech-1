@@ -98,7 +98,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>SK Technologies Releases Nexus Repository</name>
-	      <url>http://15.207.19.169:8081/repository/sktech-release/</url>
+	      <url>http://13.127.217.244:8081/repository/sktech-r/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
