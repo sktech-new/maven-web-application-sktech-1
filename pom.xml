@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>SK Technologies Releases Nexus Repository</name>
-	      <url>http://13.126.96.33:8081/repository/kai-release/</url>
+	      <url>http://15.207.84.200:8081/repository/vivo-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>SK Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.126.96.33:8081/repository/kai-snapshot/</url>
+	      <url>http://15.207.84.200:8081/repository/vivo-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
